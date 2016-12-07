@@ -70,7 +70,7 @@ var dictionary = [
 			, ["true", "трулио"]
 			, ["false", "нетрулио"]
 //            Операторы сравнения и логические операторы
-            , ["\\=\\=", "эквалио"]
+            , ["\\=\\=", "ровно"]
             , ["\\>\\=", "поцик"]
 			, ["\\<\\=", "поц"]
             , ["\\&\\&", "ичо"]
@@ -452,7 +452,7 @@ var dictionary = [
             , ["strokeStyle", "стильНаколок"]
             , ["textAlign", "выровнитьБазар"]
             , ["textBaseline", "поставитьБазар"]
-//            Canvas methods 
+//            Canvas methods
             , ["addHitRegion", "создатьПроблемы"]
             , ["getContext", "снятьСкальп"]
             , ["arc", "прогиб"]
@@ -558,7 +558,7 @@ var dictionary = [
             , ["readystatechange", "готовЙоптЧозанахуй"]
 //            Arrays properties
             , ["Array", "Помойка"]
-//            Arrays methods 
+//            Arrays methods
             , ["from", "спиздитьИз"]
             , ["isArray", "этоПомойка"]
             , ["of", "сашаГрей"]

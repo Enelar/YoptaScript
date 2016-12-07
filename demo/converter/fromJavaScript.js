@@ -1948,7 +1948,7 @@ var dictionaryFromJs = [
 	],
 	[
 		"\\=\\=",
-		"эквалио"
+		"ровно"
 	],
 	[
 		"charset",
